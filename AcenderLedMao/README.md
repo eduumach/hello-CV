@@ -1,9 +1,9 @@
-##Acender o led com a mão
-###Objetivo
+## Acender o led com a mão
+### Objetivo
 Com esse projeto tenho o objetivo de estudar a implemtantação 
 de python + opencv + cvzone e arduino.
 
-###Funcionamento
+### Funcionamento
 #### Arduino
 
 Com o led ligado no pino 12, como diagrama, toda vez que recebe um 
